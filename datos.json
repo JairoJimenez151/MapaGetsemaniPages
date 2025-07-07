@@ -1,0 +1,2597 @@
+[
+  {
+    "_Integrante1": "Pedro Eli Diaz Olarte 0222410068",
+    "_Integrante2": "Jairo Daniel Jimenez Arzuza 0222410011"
+  },
+  {
+    "nombre": "Hostel Life is Good Cartagena",
+    "componente": "Vivienda",
+    "latitud": 10.419744,
+    "longitud": -75.546918,
+    "direccion": "Calle Larga, Cl. 25 #9A - 05, Getsemaní",
+    "foto": "fotos/10.419744,-75.546918.jpg"
+  },
+  {
+    "nombre": "Cruz Verde",
+    "componente": "Comercio",
+    "latitud": 10.419554781575709,
+    "longitud":  -75.54691912982484,
+    "direccion": "Cl. 25 #9 - 13 Local 1, Getsemaní",
+    "foto": "fotos/10.419554781575709, -75.54691912982484.jpg"
+  },
+  {
+    "nombre": "Ron Viejo De Caldas",
+    "componente": "Comercio",
+    "latitud": 10.420042039033511,
+    "longitud":  -75.54825319502933,
+    "direccion": "Cl. 24 #8A-344, Getsemaní",
+    "foto": "fotos/10.420042039033511, -75.54825319502933.jpg"
+  },
+  {
+    "nombre": "Puente Roman",
+    "componente": "Patrimonio",
+    "latitud": 10.417779,
+    "longitud": -75.545150,
+    "direccion": "Cl. 25 #11-2 a 11-172",
+    "foto": "fotos/10.417779,-75.545150.jpg"
+  },
+  {
+    "nombre": "Quiebra Canto",
+    "componente": "Comercio",
+    "latitud": 10.421186,
+    "longitud": -75.548005,
+    "direccion": "Cl. 25 #24-44, Getsemaní",
+    "foto": "fotos/10.421186,-75.548005.jpg"
+  },
+  {
+    "nombre": "Macarena",
+    "componente": "Comercio",
+    "latitud": 10.41986988200615,
+    "longitud":  -75.54722391235049,
+    "direccion": "Cl. 25 #8b - 163 local 1, Getsemaní",
+    "foto": "fotos/10.41986988200615, -75.54722391235049.jpg"
+  },
+  {
+    "nombre": "PASAJE COMERCIAL LECLERC",
+    "componente": "Comercio",
+    "latitud": 10.420072,
+    "longitud": -75.548243,
+    "direccion": "Cl. 24 #8B-83, Getsemaní",
+    "foto": "fotos/10.420072,-75.548243.jpg"
+  },
+  {
+    "nombre": "Cocina Cartagena Fusion Caribe",
+    "componente": "Comercio", 
+    "latitud": 10.419932,
+    "longitud": -75.548196,
+    "direccion": "Cl. 24 #8B-83, Getsemaní",
+    "foto": "fotos/10.25123,-75.32537.jpg"
+  },
+  {
+    "nombre": "Banco Agrario de Colombia",
+    "componente": "Comercio",
+    "latitud": 10.419486993054566,
+    "longitud":  -75.54767282223592,
+    "direccion": "Cl. 24 #8B-165, Getsemaní",
+    "foto": "fotos/10.419486993054566, -75.54767282223592.jpg"
+  },
+  {
+    "nombre": "Cartagena Legends",
+    "componente": "Comercio",
+    "latitud": 10.419888862052733,
+    "longitud":  -75.54714550759566,
+    "direccion": "Cl. 25 #8B - 177, Getsemaní",
+    "foto": "fotos/10.419888862052733, -75.54714550759566.jpg"
+  },
+  {
+    "nombre": " Mar De Las Antillas",
+    "componente": "Comercio",
+    "latitud": 10.420748891428037,
+    "longitud":  -75.54821343668645,
+    "direccion": "Cl. 25 #8B-26, Getsemaní",
+    "foto": "fotos/10.420748891428037, -75.54821343668645.jpg"
+  },
+  {
+    "nombre": "San Nicolas",
+    "componente": "Comercio",
+    "latitud": 10.419944565667981,
+    "longitud":  -75.5472758690182,
+    "direccion": "Cl. 25 #8b-237 a 8b-153, Getsemaní",
+    "foto": "fotos/10.419944565667981, -75.5472758690182.jpg"
+  },
+  {
+    "nombre": "Mezquita Muhammad",
+    "componente": "Comercio",
+    "latitud": 10.419660,
+    "longitud": -75.547088,
+    "direccion": "Cl. 25 #8b177, Getsemaní",
+    "foto": "fotos/10.419660,-75.547088.jpg"
+  },
+  {
+    "nombre": "MONEY Exchange",
+    "componente": "Comercio",
+    "latitud": 10.423724,
+    "longitud":  -75.545673,
+    "direccion": "Cra. 10 #31-61, Getsemaní",
+    "foto": "fotos/(10.423724, -75.545673).jpg"
+  },
+  {
+    "nombre": "La Muralla",
+    "componente": "Vivienda",
+    "latitud": 10.422382,
+    "longitud":  -75.544839,
+    "direccion": "GETSEMANI 30 # 10-66 CALLE MEDIA LUNA",
+    "foto": "fotos/(10.422382, -75.544839).jpg"
+  },
+  {
+    "nombre": "Casa Aria",
+    "componente": "Vivienda",
+    "latitud": 10.422622,
+    "longitud":  -75.544223,
+    "direccion": "Calle Media Luna #10C - 48, Getsemaní",
+    "foto": "fotos/(10.422622, -75.544223).jpg"
+  },
+  {
+    "nombre": "La Jugadita",
+    "componente": "Comercio",
+    "latitud": 10.423916,
+    "longitud":  -75.545659,
+    "direccion": "Cl. 32, Getsemaní",
+    "foto": "fotos/(10.423916, -75.545659).jpg"
+  },
+  {
+    "nombre": "Parqueadero Estadero Pacoa",
+    "componente": "Vivienda",
+    "latitud": 10.4230928,
+    "longitud": -75.5454269,
+    "direccion": "Cl. 31 #10-34, Getsemaní",
+    "foto": "fotos/(10.4230928,-75.5454269).jpg"
+  },
+  {
+    "nombre": "ALKIWI",
+    "componente": "Comercio",
+    "latitud": 10.42274863388516, 
+    "longitud":  -75.54555441203011,
+    "direccion": "Cra. 10 #30-47, Getsemaní",
+    "foto": "fotos/(10.422764, -75.545493).jpg"
+  },
+  {
+    "nombre": "Juan Express",
+    "componente": "Comercio",
+    "latitud": 10.422310,
+    "longitud":  -75.545175,
+    "direccion": "Cl. 30 #10-31, Getsemaní",
+    "foto": "fotos/(10.422310, -75.545175).jpg"
+  },
+   {
+    "nombre": "Compraventas PACTEMOS",
+    "componente": "Comercio",
+    "latitud": 10.423617693297096, 
+    "longitud": -75.54626154345928,
+    "direccion": "Parque centenario, Centro, Avenida Daniel lemaitre",
+    "foto": "fotos/20250608_115751.jpg"
+  },
+  {
+    "nombre": "CRISTAL by La Mona",
+    "componente": "Comercio",
+    "latitud": 10.422696,
+    "longitud":  -75.545463,
+    "direccion": "Cra. 10, Calle San Andrés #30 - 39, Getsemaní",
+    "foto": "fotos/(10.422696, -75.545463).jpg"
+  },
+  {
+    "nombre": "CASA PACOA",
+    "componente": "Vivienda",
+    "latitud": 10.423367,
+    "longitud": -75.544580,
+    "direccion": "Cl. 31 #10-108, Getsemaní",
+    "foto": "fotos/(10.423367,-75.544580).jpg"
+  },
+  {
+    "nombre": "Crazy Salsa",
+    "componente": "Comercio",
+    "latitud": 10.422555,
+    "longitud":  -75.544215,
+    "direccion": "Calle de la Media Luna, Cl. 30 #10 - 151, Getsemaní",
+    "foto": "fotos/(10.422555, -75.544215).jpg"
+  },
+  {
+    "nombre": "COLOMBITALIA Arepas",
+    "componente": "Comercio",
+    "latitud": 10.422281,
+    "longitud":  -75.545516,
+    "direccion": "Cra. 10 #30-1 30-101 a, Getsemaní",
+    "foto": "fotos/(10.422281, -75.545516).jpg"
+  },
+  {
+    "nombre": "MONEY EXCHANGE",
+    "componente": "Comercio",
+    "latitud": 10.422378,
+    "longitud":  -75.5449241,
+    "direccion": "Calle de la media luna, Cl. 30 #10-81, Getsemaní",
+    "foto": "fotos/(10.422378, -75.544924)(1).jpg"
+  },
+  {
+    "nombre": "MONET CHANGE",
+    "componente": "Comercio",
+    "latitud": 10.422536,
+    "longitud":  -75.545514,
+    "direccion": "Cra. 10 #3019, Getsemaní",
+    "foto": "fotos/(10.422536, -75.545514).jpg"
+  },
+  {
+    "nombre": "MANGATA",
+    "componente": "Vivienda",
+    "latitud": 10.422340,
+    "longitud":  -75.545103,
+    "direccion": "MEDIA LUNA, Cl. 30 # 10-35, Getsemaní",
+    "foto": "fotos/(10.422340, -75.545103).jpg"
+  },
+  {
+    "nombre": "Paraiso La Gracia",
+    "componente": "Vivienda",
+    "latitud": 10.4231298,
+    "longitud": -75.54532871,
+    "direccion": "Calle pacoa #10-30, Getsemaní",
+    "foto": "fotos/(10.4231298,-75.5453287)(1).jpg"
+  },
+  {
+    "nombre": "Casa Amanzi",
+    "componente": "Vivienda",
+    "latitud": 10.423235,
+    "longitud":  -75.545650,
+    "direccion": "Cra. 10 #31-08, Getsemaní",
+    "foto": "fotos/(10.423235, -75.545650).jpg"
+  },
+  {
+    "nombre": "Juan Valdez Café",
+    "componente": "Comercio",
+    "latitud": 10.422581,
+    "longitud":  -75.544044,
+    "direccion": "Calle de la Media Luna, Cra. 30 #10 C 66, Getsemaní",
+    "foto": "fotos/(10.422581, -75.544044).jpg"
+  },
+  {
+    "nombre": "Rebelion",
+    "componente": "Comercio",
+    "latitud": 10.422454,
+    "longitud":  -75.545483,
+    "direccion": "Cra. 10, Getsemaní",
+    "foto": "fotos/(10.422454, -75.545483).jpg"
+  },
+  {
+    "nombre": "Puente heredia",
+    "componente": "Ambiente",
+    "latitud": 10.422896814006066, 
+    "longitud":  -75.5431667046061,
+    "direccion": "Cra 11, puente heredia",
+    "foto": "fotos/(10.422910, -75.543739).jpg"
+  },
+  {
+    "nombre": "Casa Centenario",
+    "componente": "Vivienda",
+    "latitud": 10.423101,
+    "longitud":  -75.545573,
+    "direccion": "Brr Getsemaní, Calle tripita y media # 10-03, piso 2",
+    "foto": "fotos/(10.423101, -75.545573).jpg"
+  },
+  {
+    "nombre": "MONEY EXCHANGE",
+    "componente": "Comercio",
+    "latitud": 10.422415,
+    "longitud":  -75.544795,
+    "direccion": "calle de la media luna, Cl. 30 , Getsemaní",
+    "foto": "fotos/(10.422415, -75.544795).jpg"
+  },
+  {
+    "nombre": "Rustrico Gastro Bar",
+    "componente": "Comercio",
+    "latitud": 10.422356,
+    "longitud":  -75.545084,
+    "direccion": "Cl. 30 #10-35, Getsemaní",
+    "foto": "fotos/(10.422356, -75.545084).jpg"
+  },
+  {
+    "nombre": "Doris Moreno",
+    "componente": "Comercio",
+    "latitud": 10.423724,
+    "longitud":  -75.545664,
+    "direccion": "Cra. 10 #31-69, Getsemaní",
+    "foto": "fotos/(10.423724, -75.545664).jpg"
+  },
+  {
+    "nombre": "SOFIYES Liquor store",
+    "componente": "Comercio",
+    "latitud": 10.422276,
+    "longitud":  -75.545249,
+    "direccion": "Cl. 30 #10-15, Getsemaní",
+    "foto": "fotos/(10.422276, -75.545249).jpg"
+  },
+  {
+    "nombre": "nombre",
+    "componente": "tipo",
+    "latitud": 10.423574,
+    "longitud":  -75.545768,
+    "direccion": "direccion",
+    "foto": "fotos/(10.423574, -75.545768).jpg"
+  },
+  {
+    "nombre": "Comisiones VARU",
+    "componente": "Comercio",
+    "latitud": 10.422378,
+    "longitud":  -75.544924,
+    "direccion": "Calle 30 # 10-58A",
+    "foto": "fotos/(10.422378, -75.544924).jpg"
+  },
+  {
+    "nombre": "YORGENTOURS",
+    "componente": "Comercio",
+    "latitud": 10.422376,
+    "longitud":  -75.545073,
+    "direccion": "Cl. 30 #10-66, Getsemaní",
+    "foto": "fotos/(10.422376, -75.545073).jpg"
+  },
+  {
+    "nombre": "CAFÉ CENTRAL TRAVELER'S COFFEE",
+    "componente": "Comercio",
+    "latitud": 10.422624480769777, 
+    "longitud":  -75.54447703456532,
+    "direccion": "Getsemani Calle de la Media Luna # 10 - 113",
+    "foto": "fotos/(10.422472, -75.544570).jpg"
+  },
+  {
+    "nombre": "Hostal Casa Mathias",
+    "componente": "Vivienda",
+    "latitud": 10.423264,
+    "longitud":  -75.545620,
+    "direccion": "cra 10 # 31-21",
+    "foto": "fotos/(10.423264, -75.545620).jpg"
+  },
+  {
+    "nombre": "Casa Lopez Hostal",
+    "componente": "Vivienda",
+    "latitud": 10.423469,
+    "longitud":  -75.544341,
+    "direccion": "calle de las tortugas, Cl. 31 #10-25, Getsemaní",
+    "foto": "fotos/(10.423469, -75.544341).jpg"
+  },
+  {
+    "nombre": "SCALEA DI MARE",
+    "componente": "Vivienda",
+    "latitud": 10.422588,
+    "longitud":  -75.544314,
+    "direccion": "Cl. 30 #10C-36, Getsemaní",
+    "foto": "fotos/(10.422588, -75.544314).jpg"
+  },
+  {
+    "nombre": "EVA OURS",
+    "componente": "Comercio",
+    "latitud": 10.4231016,
+    "longitud": -75.54542,
+    "direccion": "Cl. 31 Cl. 31 #1010, Getsemaní",
+    "foto": "fotos/(10.4231016,-75.54542).jpg"
+  },
+  {
+    "nombre": "DIEGO broaster",
+    "componente": "Comercio",
+    "latitud": 10.423141,
+    "longitud":  -75.545602,
+    "direccion": "Cra. 10 #31-15, Getsemaní",
+    "foto": "fotos/(10.423141, -75.545602).jpg"
+  },
+  {
+    "nombre": "CITY PARKING",
+    "componente": "Comercio",
+    "latitud": 10.423909,
+    "longitud":  -75.543924,
+    "direccion": "Getsemani Av. Luis López #41-39 Matuna, Getsemaní",
+    "foto": "fotos/(10.423909, -75.543924).jpg"
+  },
+  {
+    "nombre": "Artur Hostel",
+    "componente": "Comercio",
+    "latitud": 10.422516,
+    "longitud":  -75.545488,
+    "direccion": "30-28 Piso 2, Cra. 10, Getsemaní",
+    "foto": "fotos/(10.422516, -75.545488).jpg"
+  },
+  {
+    "nombre": "Casa Rosary",
+    "componente": "Vivienda",
+    "latitud": 10.422951,
+    "longitud":  -75.544260,
+    "direccion": "Calle de Las Maravillas Cra. 10 #30-37 ",
+    "foto": "fotos/(10.422951, -75.544260).jpg"
+  },
+  {
+    "nombre": "Casa Venecia",
+    "componente": "Vivienda",
+    "latitud": 10.423839534452318, 
+    "longitud":  -75.5455795806501,
+    "direccion": "getsemani cra 10 # 31-68 calle tripita y media",
+    "foto": "fotos/(10.423705, -75.545652).jpg"
+  },
+  {
+    "nombre": "Money Exchange El altisimo",
+    "componente": "Comercio",
+    "latitud": 10.422964,
+    "longitud":  -75.545540,
+    "direccion": "Calle 31, carrera 10 cerca el cabildo gastrobar, getsemani",
+    "foto": "fotos/(10.422964, -75.545540).jpg"
+  },
+  {
+    "nombre": "Comercializadora Donde Hector",
+    "componente": "Comercio",
+    "latitud": 10.422309,
+    "longitud":  -75.5454711,
+    "direccion": "BARRIO GETSEMANI CALLE LA MEDIA LUNA #9-95",
+    "foto": "fotos/(10.422309, -75.545471)(1).jpg"
+  },
+  {
+    "nombre": "Avenida Luis Carlos Lopez",
+    "componente": "Patrimonio",
+    "latitud": 10.424755429852116, 
+    "longitud":  -75.54537284579405,
+    "direccion": "Playa Pedregosa 34, La Matuna, Cartagena de Indias, Provincia de Cartagena, Bolívar",
+    "foto": "fotos/20250608_114424.jpg"
+  },
+  {
+    "nombre": "MONET CHANGE cambio",
+    "componente": "Comercio",
+    "latitud": 10.422318,
+    "longitud":  -75.545067,
+    "direccion": "calle 30 #10-36",
+    "foto": "fotos/(10.422318, -75.545067).jpg"
+  },
+  {
+    "nombre": "Hotel Galeria Trinidad",
+    "componente": "Vivienda",
+    "latitud": 10.423005364505102,
+    "longitud": -75.5452290825361,
+    "direccion": "Calle Pacoa # 10-32, Provincia de Cartagena, Bolívar",
+    "foto": "fotos/(10.423131, -75.545258).jpg"
+  },
+  {
+    "nombre": "Media Luna Hostel",
+    "componente": "Vivienda",
+    "latitud": 10.422366,
+    "longitud":  -75.544996,
+    "direccion": "Calle 30, Media Luna, #10-46 Getsemaní, Cartagena de Indias, Bolívar",
+    "foto": "fotos/(10.422366, -75.544996).jpg"
+  },
+  {
+    "nombre": "Casa de las Americas Hostal",
+    "componente": "Vivienda",
+    "latitud": 10.423144,
+    "longitud":  -75.544291,
+    "direccion": "Calle 31, carrera 10c, #30-55, Getsemaní",
+    "foto": "fotos/(10.423144, -75.544291).jpg"
+  },
+  {
+    "nombre": "Balcones Venecia",
+    "componente": "Vivienda",
+    "latitud": 10.423612312360845, 
+    "longitud":  -75.54561421273897,
+    "direccion": "Cl. 32 Cra. 10 #31 - 52, Cartagena de Indias, Bolívar",
+    "foto": "fotos/(10.423482, -75.545611).jpg"
+  },
+  {
+    "nombre": "Iglesia de San Roque",
+    "componente": "tipo",
+    "latitud": 10.422405330668397, 
+    "longitud":  -75.54438613336406,
+    "direccion": "CL. 30 Cra. 10c #29-222, Getsemaní",
+    "foto": "fotos/(10.422506, -75.544646).jpg"
+  },
+  {
+    "nombre": "Hostal La Casona de Getsemaní",
+    "componente": "Vivienda",
+    "latitud": 10.423393508456698, 
+    "longitud":  -75.5456614480779,
+    "direccion": "Cra 10 # 31-32, Getsemaní",
+    "foto": "fotos/(10.423385, -75.545660).jpg"
+  },
+  {
+    "nombre": "Money Exchange",
+    "componente": "Comercio",
+    "latitud": 10.422553,
+    "longitud":  -75.544050,
+    "direccion": "Cl. 30 # 100- 52, Getsemaní",
+    "foto": "fotos/(10.422553, -75.544050).jpg"
+  },
+  {
+    "nombre": "Casa Cielo",
+    "componente": "Vivienda",
+    "latitud":10.42360694997994, 
+    "longitud":  -75.54401145039894,
+    "direccion": "Cl. 31 #10C-39, Getsemaní",
+    "foto": "fotos/(10.423551, -75.543987).jpg"
+  },
+  {
+    "nombre": "Tienda de Artesanias Getsemaní",
+    "componente": "Comercio",
+    "latitud": 10.423810,
+    "longitud":  -75.545706,
+    "direccion": "Cra 10, esquina de la calle tripita y media frente al banco del estado. ",
+    "foto": "fotos/(10.423810, -75.545706).jpg"
+  },
+  {
+    "nombre": "Restaurante & Pizzeria Dorato",
+    "componente": "Comercio",
+    "latitud": 10.422401,
+    "longitud":  -75.545047,
+    "direccion": "Cl. 30 #10-103, Getsemaní",
+    "foto": "fotos/(10.422401, -75.545047).jpg"
+  },
+  {
+    "nombre": "Hotel Casa Canabal by Faranda Boutique",
+    "componente": "Vivienda",
+    "latitud": 10.423378,
+    "longitud":  -75.545655,
+    "direccion": "Cra. 10 #31-39, Getsemaní",
+    "foto": "fotos/(10.423378, -75.545655).jpg"
+  },
+  {
+    "nombre": "Las Vainas de mi Pueblo",
+    "componente": "Comercio",
+    "latitud": 10.423545,
+    "longitud":  -75.545754,
+    "direccion": "Cra. 10 #31-1, Getsemaní",
+    "foto": "fotos/(10.423545, -75.545754).jpg"
+  },
+  {
+    "nombre": "Casa Helena Hostel Cartagena",
+    "componente": "Vivienda",
+    "latitud": 10.422405,
+    "longitud":  -75.544761,
+    "direccion": "Cl. 30 #10-69, Getsemaní",
+    "foto": "fotos/(10.422405, -75.544761).jpg"
+  },
+  {
+    "nombre": "Iglesia Central",
+    "componente": "Patrimonio-cultural",
+    "latitud": 10.423125969636281, 
+    "longitud": -75.54510223552009,
+    "direccion": "Cl. 31 #10B - 50",
+    "foto": "fotos/(10.4231875,-75.5451542).jpg"
+  },
+  {
+    "nombre": "Los Patios Hostel",
+    "componente": "Vivienda",
+    "latitud": 10.422488,
+    "longitud":  -75.544723,
+    "direccion": "Cl. 30 #10-81, Getsemaní",
+    "foto": "fotos/(10.422488, -75.544723).jpg"
+  },
+  {
+    "nombre": "Restaurante bar Cartagena DF Colombia & México",
+    "componente": "Comercio",
+    "latitud": 10.422716,
+    "longitud":  -75.545520,
+    "direccion": "Calle San Andrés, Cra. 10 #30-47, Getsemaní",
+    "foto": "fotos/(10.422716, -75.545520).jpg"
+  },
+  {
+    "nombre": "Veterinaria Manrique",
+    "componente": "Comercio",
+    "latitud": 10.423584,
+    "longitud":  -75.545732,
+    "direccion": "Tripita y Media #31-61, Getsemaní",
+    "foto": "fotos/(10.423584, -75.545732).jpg"
+  },
+  {
+    "nombre": "Casa London 21",
+    "componente": "Vivienda",
+    "latitud": 10.423313,
+    "longitud":  -75.544648,
+    "direccion": "Calle 31 #1106,Getsemaní",
+    "foto": "fotos/(10.423313, -75.544648).jpg"
+  },
+  {
+    "nombre": "BEER LOVERS",
+    "componente": "tipo",
+    "latitud": 10.422741,
+    "longitud":  -75.545515,
+    "direccion": "Cra 10 # 30-40 local 101, Calle San Andres, Getsemani, Getsemaní",
+    "foto": "fotos/(10.422741, -75.545515).jpg"
+  },
+  {
+    "nombre": "Carta Ajena Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.423246,
+    "longitud":  -75.544976,
+    "direccion": "Calle 31, Cl. de la Magdalena #10-77, Getsemaní",
+    "foto": "fotos/(10.423246, -75.544976).jpg"
+  },
+  {
+    "nombre": "Remoontadora de calzado Franco",
+    "componente": "Comercio",
+    "latitud": 10.422511,
+    "longitud":  -75.545520,
+    "direccion": "35, Calle San Andrés #30, Getsemaní",
+    "foto": "fotos/(10.422511, -75.545520).jpg"
+  },
+  {
+    "nombre": "Sublime Hotel Boutique",
+    "componente": "Vivienda",
+    "latitud": 10.423542,
+    "longitud":  -75.544346,
+    "direccion": "calle de las maravillas Getsemaní, Cra. 10c #31-12",
+    "foto": "fotos/(10.423542, -75.544346).jpg"
+  },
+  {
+    "nombre": "Restaurante El paisa",
+    "componente": "Comercio",
+    "latitud": 10.423654,
+    "longitud":  -75.545692,
+    "direccion": "Cra 10 cerca del banco del estado ",
+    "foto": "fotos/(10.423654, -75.545692).jpg"
+  },
+  {
+    "nombre": "Corresponsal de BORA BORA beach club ",
+    "componente": "Comercio",
+    "latitud": 10.4223831098811, 
+    "longitud":  -75.5447314012552,
+    "direccion": "Cl. 30 #10104, frente al Dollar money Exchange",
+    "foto": "fotos/(10.422384, -75.544824).jpg"
+  },
+  {
+    "nombre": "Restaurante el CORONCORO",
+    "componente": "Comercio",
+    "latitud": 10.423332,
+    "longitud":  -75.545658,
+    "direccion": "Cra. 10 #31-22, Getsemaní",
+    "foto": "fotos/(10.423332, -75.545658).jpg"
+  },
+  {
+    "nombre": "Casa la Pilar",
+    "componente": "Vivienda",
+    "latitud": 10.422908,
+    "longitud":  -75.544260,
+    "direccion": "Cra. 10c # 30-27",
+    "foto": "fotos/(10.422908, -75.544260).jpg"
+  },
+  {
+    "nombre": "Abasto",
+    "componente": "Comercio",
+    "latitud": 10.422475,
+    "longitud":  -75.545478,
+    "direccion": "Cra 10, cerca al banco del estado",
+    "foto": "fotos/(10.423705, -75.544662).jpg"
+  },
+  {
+    "nombre": "Tremenda Burger",
+    "componente": "Comercio",
+    "latitud": 10.422462,
+    "longitud":  -75.545485,
+    "direccion": "Cra. 10 # 30-28",
+    "foto": "fotos/(10.422462, -75.545485).jpg"
+  },
+  {
+    "nombre": "Materiales El Machetazo",
+    "componente": "Comercio",
+    "latitud": 10.423955,
+    "longitud":  -75.543938,
+    "direccion": "Cra. 11, Calle Luis Carlos López #31-59, Getsemaní",
+    "foto": "fotos/(10.423955, -75.543938).jpg"
+  },
+  {
+    "nombre": "Hotel La Magdalena",
+    "componente": "Vivienda",
+    "latitud": 10.423229,
+    "longitud":  -75.544947,
+    "direccion": "Cl. 31 #10-62",
+    "foto": "fotos/(10.423229, -75.544947).jpg"
+  },
+  {
+    "nombre": "Casa Viena",
+    "componente": "Vivienda",
+    "latitud": 10.422776,
+    "longitud":  -75.545540,
+    "direccion": "Calle San Andres, Cra. 10 # 30-52",
+    "foto": "fotos/(10.422776, -75.545540).jpg"
+  },
+  {
+    "nombre": "BINGO Verano",
+    "componente": "Comercio",
+    "latitud": 10.423925444819133,
+    "longitud":   -75.54558834841839,
+    "direccion": "Avenida Daniel Lemaitre #10 - 68, Getsemaní",
+    "foto": "fotos/(10.423809, -75.545924).jpg"
+  },
+  {
+    "nombre": "Badran",
+    "componente": "Comercio",
+    "latitud": 10.422557,
+    "longitud":  -75.544183,
+    "direccion": "Cl. 30 # 10c-52",
+    "foto": "fotos/(10.422557, -75.544183).jpg"
+  },
+  {
+    "nombre": "Los Tacos del Gordo",
+    "componente": "Comercio",
+    "latitud": 10.422262,
+    "longitud":  -75.545221,
+    "direccion": " Cl. 30 #10 19, Getsemaní",
+    "foto": "fotos/(10.422262, -75.545221).jpg"
+  },
+  {
+    "nombre": "PIZZERIA ITALIANA",
+    "componente": "Comercio",
+    "latitud": 10.422366,
+    "longitud":  -75.544969,
+    "direccion": "",
+    "foto": "fotos/(10.422366, -75.544969).jpg"
+  },
+  {
+    "nombre": "LICOPOLIS",
+    "componente": "Comercio",
+    "latitud": 10.422384,
+    "longitud":  -75.544867,
+    "direccion": "direccion",
+    "foto": "fotos/(10.422384, -75.544867).jpg"
+  },
+  {
+    "nombre": "Electronicas MAROEL",
+    "componente": "Comercio",
+    "latitud": 10.424371,
+    "longitud":  -75.544506,
+    "direccion": "Cra. 10c #10C 24 Local 1, Getsemaní",
+    "foto": "fotos/(10.424371, -75.544506).jpg"
+  },
+  {
+    "nombre": "Restaurante el mordisquito",
+    "componente": "Comercio",
+    "latitud": 10.422905727349141,
+    "longitud": -75.54547837712668,
+    "direccion": "Cra. 10 #30-76, Getsemaní",
+    "foto": "fotos/(10.422878, -75.545570).jpg"
+  },
+  {
+    "nombre": "Excedente Textiles El Kilazo",
+    "componente": "Comercio",
+    "latitud": 10.424069,
+    "longitud":  -75.543945,
+    "direccion": "Avenida Luis Carlos Lopez #31 - 59",
+    "foto": "fotos/(10.424069, -75.543945).jpg"
+  },
+  {
+    "nombre": "Luna llena",
+    "componente": "Comercio",
+    "latitud": 10.422426,
+    "longitud":  -75.545010,
+    "direccion": "Cl. 30 #10 47, Getsemaní",
+    "foto": "fotos/(10.422426, -75.545010).jpg"
+  },
+  {
+    "nombre": "Andres Autoservicio",
+    "componente": "Comercio",
+    "latitud": 10.422516,
+    "longitud":  -75.545453,
+    "direccion": "Cra. 10 #30-29, Getsemaní",
+    "foto": "fotos/(10.422516, -75.545453).jpg"
+  },
+  {
+    "nombre": "Guest House",
+    "componente": "Vivienda",
+    "latitud": 10.423347,
+    "longitud":  -75.544720,
+    "direccion": "Cl. 31 #10-90, Getsemaní",
+    "foto": "fotos/(10.423347, -75.544720).jpg"
+  },
+  {
+    "nombre": "Cevichería El Gramo Media Luna",
+    "componente": "Comercio",
+    "latitud": 10.422425,
+    "longitud":  -75.543728,
+    "direccion": "Calle de la Media Luna, Cl. 30 #19-76 LOC 1, Getsemaní",
+    "foto": "fotos/(10.422425, -75.543728).jpg"
+  },
+  {
+    "nombre": "Angel Restaurant Bar",
+    "componente": "Comercio",
+    "latitud": 10.423414,
+    "longitud":  -75.545657,
+    "direccion": "direccion",
+    "foto": "fotos/(10.423414, -75.545657).jpg"
+  },
+  {
+    "nombre": "El Cabildo GastroBar",
+    "componente": "Comercio",
+    "latitud": 10.422988,
+    "longitud":  -75.545564,
+    "direccion": "Cra. 10 #30-65 a 30-1, Getsemaní",
+    "foto": "fotos/(10.422988, -75.545564).jpg"
+  },
+  {
+    "nombre": "Insignia Soy Local",
+    "componente": "tipo",
+    "latitud": 10.42232899652149, 
+    "longitud":  -75.54534535215389,
+    "direccion": "La Havana Club, Cll Media Luna 30 #10-13 Getsemani",
+    "foto": "fotos/(10.422265, -75.545238).jpg"
+  },
+  {
+    "nombre": "Hotel Boutique La Artillería",
+    "componente": "tipo",
+    "latitud": 10.423345747865064,
+    "longitud":   -75.54473014479488,
+    "direccion": " Cl. 31 #10-124,",
+    "foto": "fotos/(10.423346, -75.544643).jpg"
+  },
+  {
+    "nombre": "BALCONCITO",
+    "componente": "Comercio",
+    "latitud": 10.422317,
+    "longitud":  -75.545127,
+    "direccion": "Calle 30 #10-33",
+    "foto": "fotos/(10.422317, -75.545127).jpg"
+  },
+  {
+    "nombre": "Casual Bistro Local",
+    "componente": "Comercio",
+    "latitud": 10.422411881365155, 
+    "longitud":  -75.54467045769785,
+    "direccion": "Calle de La Media Luna, cl. 10 #104, Getsemaní",
+    "foto": "fotos/(10.422417, -75.544755).jpg"
+  },
+  {
+    "nombre": "AKEL HOUSE HOTEL",
+    "componente": "Vivienda",
+    "latitud": 10.423217,
+    "longitud":  -75.544302,
+    "direccion": "Calle de las maravillas, Cra. 10c #30-83, Getsemaní",
+    "foto": "fotos/(10.423217, -75.544302).jpg"
+  },
+  {
+    "nombre": "Libertario Coffee Roasters Cartagena",
+    "componente": "Comercio",
+    "latitud":10.42233020452117, 
+    "longitud":  -75.54539430464507,
+    "direccion": "Cra. 10 #30-14, Getsemaní",
+    "foto": "fotos/(10.422309, -75.545471).jpg"
+  },
+  {
+    "nombre": "Hostel M & H",
+    "componente": "Vivienda",
+    "latitud": 10.422664,
+    "longitud":  -75.545506,
+    "direccion": "Cra. 10 # 30 - 36, Getsemaní",
+    "foto": "fotos/(10.422664, -75.545506).jpg"
+  },
+  {
+    "nombre": "Joyeria THE Mine",
+    "componente": "tipo",
+    "latitud": 10.422669,
+    "longitud":  -75.545463,
+    "direccion": "direccion",
+    "foto": "fotos/(10.422669, -75.545463).jpg"
+  },
+  {
+    "nombre": "Hotel Villa Colonial",
+    "componente": "Vivienda",
+    "latitud": 10.423224052480032,
+    "longitud":   -75.54425009600162,
+    "direccion": "Calle de las maravillas #30-60, Getsemaní",
+    "foto": "fotos/(10.423193, -75.544199).jpg"
+  },
+  {
+    "nombre": "Hospedaje Siboney",
+    "componente": "Vivienda",
+    "latitud": 10.423654,
+    "longitud":  -75.5456921,
+    "direccion": "direccion",
+    "foto": "fotos/(10.423654, -75.545692)(1).jpg"
+  },
+  {
+    "nombre": "Hotel Boutique La Artillería ",
+    "componente": "Vivienda",
+    "latitud": 10.423342745262762,
+    "longitud":   -75.54472973419333,
+    "direccion": "Calle Pacoa No. 10-101, Cl. 31 #10-101",
+    "foto": "fotos/(10.423352, -75.544663).jpg"
+  },
+  {
+    "nombre": "Abastos el Centenario",
+    "componente": "Comercio",
+    "latitud": 10.422973,
+    "longitud":  -75.545555,
+    "direccion": "Cl. 31 #10-03, Getsemaní",
+    "foto": "fotos/(10.422973, -75.545555).jpg"
+  },
+  {
+    "nombre": "ATM Droguería y Minimarket PURA ",
+    "componente": "Comercio",
+    "latitud": 10.42260216629063, 
+    "longitud":  -75.54544034998537,
+    "direccion": "Cra. 10 Getsemaní",
+    "foto": "fotos/(10.422586, -75.545524).jpg"
+  },
+  {
+    "nombre": "Bike & Arts",
+    "componente": "Comercio",
+    "latitud": 10.422629500505801,
+    "longitud": -75.54425293234672,
+    "direccion": "Media Luna 10 ##123, Getsemaní",
+    "foto": "fotos/(10.422543, -75.544425).jpg"
+  },
+  {
+    "nombre": "RESTAURANTE ESTE ES EL PUNTO",
+    "componente": "Comercio",
+    "latitud": 10.422649,
+    "longitud":  -75.545472,
+    "direccion": "Cra. 10 #30-35, Getsemaní",
+    "foto": "fotos/(10.422649, -75.545472).jpg"
+  },
+  {
+    "nombre": "COLOMBITALIA BRUNCH AND COFFEE",
+    "componente": "Comercio",
+    "latitud": 10.423706991738994, 
+    "longitud":  -75.54559908726799,
+    "direccion": "Cra. 10 # 31-68, APTO 2",
+    "foto": "fotos/(10.423767, -75.545716).jpg"
+  },
+  {
+    "nombre": "nombre",
+    "componente": "tipo",
+    "latitud": 10.4231298,
+    "longitud": -75.5453287,
+    "direccion": "direccion",
+    "foto": "fotos/(10.4231298,-75.5453287).jpg"
+  },
+  {
+    "nombre": "MONEY EXCHANGE SOISA- CAJA DE CAMBIO",
+    "componente": "Comercio",
+    "latitud": 10.423764,
+    "longitud":  -75.545697,
+    "direccion": "Cra. 10 #31-69, Getsemaní",
+    "foto": "fotos/(10.423764, -75.545697).jpg"
+  },
+  {
+    "nombre": "SOFIYES Liquor store",
+    "componente": "Comercio",
+    "latitud": 10.423924,
+    "longitud":  -75.545647,
+    "direccion": "Cl. 32, frente al banco del estado, Getsemaní",
+    "foto": "fotos/(10.423924, -75.545647).jpg"
+  },
+  {
+    "nombre": "Gimaní",
+    "componente": "Comercio",
+    "latitud": 10.422844,
+    "longitud":  -75.545495,
+    "direccion": "Cra. 10 #30-65, Getsemaní",
+    "foto": "fotos/(10.422844, -75.545495).jpg"
+  },
+  {
+    "nombre": "Casa villa Colonial",
+    "componente": "Vivienda",
+    "latitud": 10.422490,
+    "longitud":  -75.544708,
+    "direccion": "Media Luna #10-89, Getsemaní",
+    "foto": "fotos/(10.422490, -75.544708).jpg"
+  },
+  {
+    "nombre": "RESTAURANT BAR VIVE",
+    "componente": "Comercio",
+    "latitud": 10.423496,
+    "longitud":  -75.545619,
+    "direccion": "Cra. 10 #31-52, Getsemaní",
+    "foto": "fotos/(10.423496, -75.545619).jpg"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Calle 24"
+  },
+  {
+    "nombre": "  ",
+    "componente": "Cultural",
+    "latitud": 10.418127,
+    "longitud": -75.546011,
+    "direccion": "Cl. 24 # 10B-47,Getsemaní",
+    "foto": "fotos/(10.418127, -75.546011) .JPG"
+  },
+  {
+    "nombre": "Aseguradora Solidaria de Colombia",
+    "componente": "Comercio",
+    "latitud": 10.418057312009948, 
+    "longitud": -75.54596278580759,
+    "direccion": "Cl. 24 # 10B-46",
+    "foto": "fotos/(10.418050, -75.545963) Aseguradora Solidaria de Colombia.JPG"
+  },
+  {
+    "nombre": "Tienda de licores by Distanco",
+    "componente": "Comercio",
+    "latitud": 10.418831,
+    "longitud": -75.546852,
+    "direccion": "Cl. 24 #10-21",
+    "foto": "fotos/(10.418831, -75.546852) Tienda de licores by Distanco.JPG"
+  },
+  {
+    "nombre": "Hotel Santa Cecilia B&B",
+    "componente": "Vivienda",
+    "latitud": 10.418803543023111, 
+    "longitud": -75.54685638772754,
+    "direccion": "Cl. 24 #8B-12, Getsemaní",
+    "foto": "fotos/(10.418730, -75.546756) Hotel Santa Cecilia B&B.JPG"
+  },
+  {
+    "nombre": "Taboo Disco Club",
+    "componente": "Comercio",
+    "latitud": 10.418665376560678, 
+    "longitud": -75.54666472520928,
+    "direccion": "Cl. 24 #10-55, Getsemaní",
+    "foto": "fotos/(10.418618, -75.546630) Taboo Disco Club.JPG"
+  },
+  {
+    "nombre": "Casa Zahri Boutique Hostel",
+    "componente": "Vivienda",
+    "latitud": 10.418896,
+    "longitud": -75.546950,
+    "direccion": "Cl. 24 #10-13, Getsemaní",
+    "foto": "fotos/(10.418896, -75.546950) Casa Zahri Boutique Hostel.JPG"
+  },
+  {
+    "nombre": "Concejo Distrita de Cartagena",
+    "componente": "Patrimonio",
+    "latitud": 10.418509802264163, 
+    "longitud": -75.54650228406251,
+    "direccion": "direccion",
+    "foto": "fotos/(10.418510, -75.546488) Concejo Distrita de Cartagena.JPG"
+  },
+  {
+    "nombre": "Baluarte El Reducto",
+    "componente": "Comercio",
+    "latitud": 10.417559813806546, 
+    "longitud": -75.54525773801443,
+    "direccion": "Cl. 25 #10B-58",
+    "foto": "fotos/(10.417517, -75.545342) Baluarte El Reducto.JPG"
+  },
+  {
+    "nombre": "Servitrust GNB Sudameris",
+    "componente": "Comercio",
+    "latitud": 10.418368,
+    "longitud": -75.546366,
+    "direccion": "Cl. 24 justo al lado del consejo de cartaganea",
+    "foto": "fotos/(10.418368, -75.546366) Servitrust GNB Sudameris.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418958,
+    "longitud": -75.546993,
+    "direccion": "Cra 24",
+    "foto": "fotos/(10.418958, -75.546993).JPG"
+  },
+  {
+    "nombre": "Taboo Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.418655723309445, 
+    "longitud": -75.54666233331137,
+    "direccion": "Cl. 24 #10-55, Getsemaní",
+    "foto": "fotos/(10.418690, -75.546692) Taboo Restaurante.JPG"
+  },
+  {
+    "nombre": "Mi Llave Hostels",
+    "componente": "Vivienda",
+    "latitud": 10.418170,
+    "longitud": -75.546088,
+    "direccion": "Calle 24 #10B-38",
+    "foto": "fotos/(10.418170, -75.546088) Mi Llave Hostels.JPG"
+  },
+  {
+    "nombre": "Hotel Dorado Plaza Calle del Arsenal",
+    "componente": "Vivienda",
+    "latitud": 10.41871221625012, 
+    "longitud": -75.54672459845156,
+    "direccion": "Cl. 24 #10-57, Getsemaní",
+    "foto": "fotos/(10.418582, -75.546578) Hotel Dorado Plaza Calle del Arsenal.JPG"
+  },
+  {
+    "nombre": "La Farra Club",
+    "componente": "Comercio",
+    "latitud": 10.418390654250894, 
+    "longitud": -75.54640206593494,
+    "direccion": "Cl. 24 #10b-1, Getsemaní",
+    "foto": "fotos/(10.418281, -75.546248) La Farra Club.JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Calle 25"
+  },
+  {
+    "nombre": "Lavanderia Lavatú",
+    "componente": "tipo",
+    "latitud": 10.418329881005526, 
+    "longitud": -75.54574512330697,
+    "direccion": "Cl. 25 #10B-61, Getsemaní",
+    "foto": "fotos/(10.418275, -75.545736) Lavanderia Lavatú.JPG"
+  },
+  {
+    "nombre": "Restaurante el Reducto",
+    "componente": "Comercio",
+    "latitud": 10.418025032971439, 
+    "longitud": -75.54534482330257,
+    "direccion": "Cra. 11 #25-28, Getsemaní",
+    "foto": "fotos/(10.417989, -75.545319) Restaurante el Reducto.JPG"
+  },
+  {
+    "nombre": "Departamento Administrativo Distrital de Salud",
+    "componente": "Social",
+    "latitud": 10.418783294964562,
+    "longitud":  -75.54615925888875,
+    "direccion": "Cra. 10b #25-10, Getsemaní",
+    "foto": "fotos/(10.418730, -75.546208) Departamento Administrativo Distrital de Salud.JPG"
+  },
+  {
+    "nombre": "Centro de Conciliación arbitraje y amigable composición TALID",
+    "componente": "Social",
+    "latitud": 10.418589718996733, 
+    "longitud": -75.54622354109715,
+    "direccion": "Cl. 25 #48, Getsemaní",
+    "foto": "fotos/(10.418574, -75.546218) Centro de Conciliación arbitraje y amigable composición TALID.JPG"
+  },
+  {
+    "nombre": "Restaurante Bar CERVECERIA CARTAGENA",
+    "componente": "Comercio",
+    "latitud": 10.418916718994335, 
+    "longitud": -75.54681914109221,
+    "direccion": "Cl. 25 #10-42, Getsemaní",
+    "foto": "fotos/(10.418877, -75.546485) Restaurante Bar CERVECERIA CARTAGENA.JPG"
+  },
+  {
+    "nombre": "Colchones BARAKAT",
+    "componente": "Comercio",
+    "latitud": 10.41836527094593, 
+    "longitud": -75.54601842330341,
+    "direccion": "Cl. 25 #10B-28, Getsemaní",
+    "foto": "fotos/(10.418985, -75.546413) Colchones BARAKAT.JPG"
+  },
+  {
+    "nombre": "Hostel La Antigua Capsula",
+    "componente": "Vivienda",
+    "latitud": 10.418530408931487, 
+    "longitud": -75.54599150552271,
+    "direccion": "Cl. 25 #10B-13, Getsemaní",
+    "foto": "fotos/(10.418517, -75.546021) Hostel La Antigua Capsula.JPG"
+  },
+  {
+    "nombre": "Hotel Casa Alma",
+    "componente": "Vivienda",
+    "latitud": 10.418205,
+    "longitud": -75.545631,
+    "direccion": "calle 25 carrera, Cl. de las Palmas #10c, Getsemaní",
+    "foto": "fotos/(10.418205, -75.545631) Hotel Casa Alma.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418242,
+    "longitud": -75.545901,
+    "direccion": "Cra 25",
+    "foto": "fotos/(10.418242, -75.545901).JPG"
+  },
+  {
+    "nombre": "Colfondos",
+    "componente": "Social",
+    "latitud": 10.419104931766682, 
+    "longitud": -75.54657912206683,
+    "direccion": "Cl. 25 #8B-178, Getsemaní",
+    "foto": "fotos/(10.419094, -75.546535) Colfondos.JPG"
+  },
+  {
+    "nombre": "Lunala Cafe",
+    "componente": "Comercio",
+    "latitud": 10.418190,
+    "longitud": -75.545840,
+    "direccion": "Cl. 25 # 10B-58",
+    "foto": "fotos/(10.418190, -75.545840) Lunala Cafe.JPG"
+  },
+
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Calle 27"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419376,
+    "longitud": -75.544929,
+    "direccion": "Calle 27",
+    "foto": "fotos/(10.419376, -75.544929).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419402,
+    "longitud": -75.545007,
+    "direccion": "Calle 27",
+    "foto": "fotos/(10.419402, -75.545007).JPG"
+  },
+  {
+    "nombre": "Callejon Angosto",
+    "componente": "Patrimonio",
+    "latitud": 10.41924975677657, 
+    "longitud": -75.54471271384558,
+    "direccion": "Cl. 27 #10b-2 a Cra. 10b #120, Getsemaní",
+    "foto": "fotos/(10.419652, -75.545489) Callejon Angosto.JPG"
+  },
+  {
+    "nombre": "Hotel Casa Fanny",
+    "componente": "Vivienda",
+    "latitud": 10.419545844846384, 
+    "longitud": -75.54532870134413,
+    "direccion": "callejon angosto #10B26, Getsemaní",
+    "foto": "fotos/(10.419514, -75.545301) Hotel Casa Fanny.JPG"
+  },
+  {
+    "nombre": "Calle de las Sombrillas",
+    "componente": "Social",
+    "latitud": 10.419280144457046, 
+    "longitud": -75.54474302702152,
+    "direccion": "Cl. 27 #10b-2 a 10b-1,Getsemaní",
+    "foto": "fotos/(10.419471, -75.54520) Calle de las Sombrillas.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419320,
+    "longitud": -75.544796,
+    "direccion": "Calle 27",
+    "foto": "fotos/(10.419320, -75.544796).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419473,
+    "longitud": -75.545213,
+    "direccion": "Calle 27",
+    "foto": "fotos/(10.419473, -75.545213).JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Calle 28"
+  },
+  {
+    "nombre": "Cocktails Socodrilo",
+    "componente": "Comercio",
+    "latitud": 10.42008396202769, 
+    "longitud": -75.54532107359778,
+    "direccion": "Cra. 10b #27-51 a 27-1, Getsemaní",
+    "foto": "fotos/(10.420064, -75.545259) Cocktails Socodrilo.JPG"
+  },
+  {
+    "nombre": "Pintura ",
+    "componente": "Cultural",
+    "latitud": 10.419930,
+    "longitud": -75.545080,
+    "direccion": "Calle 28 ",
+    "foto": "fotos/(10.419930, -75.545080).JPG"
+  },
+  {
+    "nombre": "Carpinteros Social Club",
+    "componente": "Comercio",
+    "latitud": 10.419952,
+    "longitud": -75.544930,
+    "direccion": "Cl. 28 #10b-111, Getsemaní",
+    "foto": "fotos/(10.419952, -75.544930) Carpinteros Social Club.JPG"
+  },
+  {
+    "nombre": "Cocteles donde Campii",
+    "componente": "Comercio",
+    "latitud": 10.419989,
+    "longitud": -75.545306,
+    "direccion": "Cl. 28 #10B-10",
+    "foto": "fotos/(10.419989, -75.545306) Cocteles donde Campii.JPG"
+  },
+  {
+    "nombre": "El Callejon pug's bar",
+    "componente": "Comercio",
+    "latitud": 10.420018006327519, 
+    "longitud": -75.54517764658863,
+    "direccion": "Getsemani Callejón Ancho Local 10B-15",
+    "foto": "fotos/(10.420034, -75.545221) BAR El Callejon.JPG"
+  },
+  {
+    "nombre": "Nueva Lengua",
+    "componente": "Social",
+    "latitud": 10.419963673651603, 
+    "longitud": -75.54494269816216,
+    "direccion": "Calle 28 (Callejon ancho) #10b 52, Getsemaní",
+    "foto": "fotos/(10.419889, -75.544954) Escuela de español Nueva Lengua.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419825,
+    "longitud": -75.544807,
+    "direccion": "Caalle 28 #10-58",
+    "foto": "fotos/(10.419825, -75.544807).JPG"
+  },
+  {
+    "nombre": "Callejon Ancho",
+    "componente": "Comercio-Patrimonial",
+    "latitud": 10.419991343036655, 
+    "longitud": -75.54517730551323,
+    "direccion": "Cl. 28 #68, Getsemaní",
+    "foto": "fotos/(10.420051, -75.545359) Callejon Ancho.JPG"
+  },
+  {
+    "nombre": "Coctelería Donde La Niña",
+    "componente": "Comercio",
+    "latitud": 10.419962963281764, 
+    "longitud": -75.54519848097776,
+    "direccion": "Cl. 28 #68, Getsemaní",
+    "foto": "fotos/(10.419970, -75.545184) Coctelería Donde La Niña.JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Calle de las chancletas"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419198,
+    "longitud": -75.545329,
+    "direccion": "Calle de las Chancletas",
+    "foto": "fotos/(10.419198, -75.545329).JPG"
+  },
+  {
+    "nombre": "Zana Hotel Boutique",
+    "componente": "Vivienda",
+    "latitud": 10.419119054611857, 
+    "longitud": -75.54521072574856,
+    "direccion": "Cl. 26 #10B-51, Getsemaní",
+    "foto": "fotos/(10.419077, -75.545195) Hotel Boutique Zana.JPG"
+  },
+  {
+    "nombre": "Casa Hibiscus",
+    "componente": "Vivienda",
+    "latitud": 10.418996681007442, 
+    "longitud": -75.54530512329998,
+    "direccion": "Cl. 26 #10B - 30, Getsemaní",
+    "foto": "fotos/(10.419018, -75.545311) Hotel Casa Hibiscus.JPG"
+  },
+  {
+    "nombre": "  Joyeria y Esmeraldas Getsemaní",
+    "componente": "Comercio",
+    "latitud": 10.419349343029207, 
+    "longitud": -75.54559868773178,
+    "direccion": "Plaza El Pozo, Cl. 26 #08, Getsemaní, Cartagena de Indias, Provincia de Cartagena, Bolívar",
+    "foto": "fotos/(10.419345, -75.545542) Joyeria y Esmeraldas Getsemaní.JPG"
+  },
+  {
+    "nombre": "Tienda las Tablitas",
+    "componente": "Comercio",
+    "latitud": 10.418833118991373, 
+    "longitud": -75.54501259446832,
+    "direccion": "Cra. 10c #20-01, Getsemaní",
+    "foto": "fotos/(10.418825, -75.545009) Tienda las Tablitas.JPG"
+  },
+  {
+    "nombre":"",
+    "componente": "Cultural",
+    "latitud": 10.419314,
+    "longitud": -75.545504,
+    "direccion": "Calle las chancletas #10-17",
+    "foto": "fotos/(10.419314, -75.545504).JPG"
+  },
+  {
+    "nombre": "Pachamama Hostel & Bar Cartagena",
+    "componente": "Comercio-Vivienda",
+    "latitud": 10.418982225430408,
+    "longitud":  -75.54499869657877,
+    "direccion": "Cl. de las Chancletas #10B-75, Getsemaní",
+    "foto": "fotos/(10.418947, -75.545017) Hostal Pachamama.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419279,
+    "longitud": -75.545442,
+    "direccion": "Calle de las Chancletas",
+    "foto": "fotos/(10.419279, -75.545442).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419146,
+    "longitud": -75.545277,
+    "direccion": "/Calle de las chancletas",
+    "foto": "fotos/(10.419146, -75.545277).JPG"
+  },
+  {
+    "nombre": "El Taller de Bici",
+    "componente": "Comercio",
+    "latitud": 10.418992586617152, 
+    "longitud": -75.54501410099121,
+    "direccion": "Calle de las Chnacletas, diagonal a la tienda de las tablitas, Getsemaní",
+    "foto": "fotos/(10.418944, -75.544980) Taller de Bicicletas.JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Carrera 10"
+  },
+  {
+    "nombre": "Casa Venita Boutique Hotel",
+    "componente": "Vivienda",
+    "latitud": 10.419555973528766, 
+    "longitud": -75.54652881068093,
+    "direccion": "Cra 10 #25-37, Getsemaní",
+    "foto": "fotos/(10.419540, -75.546521) Casa Venita Boutique Hotel.JPG"
+  },
+  {
+    "nombre": "",
+    "componente": "Cultural",
+    "latitud": 10.419850,
+    "longitud": -75.546266,
+    "direccion": "Cra 10 #26-77",
+    "foto": "fotos/(10.419850, -75.546266).JPG"
+  },
+  {
+    "nombre": "Café San Antonio",
+    "componente": "Vivienda",
+    "latitud": 110.419965141407719,
+    "longitud":  -75.54608225691061,
+    "direccion": "Casa Jaguar, Cra 10 # 25-99",
+    "foto": "fotos/(10.419965, -75.546082) Café San Antonio.JPG"
+  },
+  {
+    "nombre": "Belcanto Terraza & Café",
+    "componente": "Comercio",
+    "latitud": 10.420387375945271, 
+    "longitud": -75.54557766452795,
+    "direccion": "Cra 10 130001, Getsemani",
+    "foto": "fotos/(10.420418, -75.545542) Belcanto Terraza & Café.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.420257,
+    "longitud": -75.545834,
+    "direccion": "Cra 10 #25-149,Getsemaní",
+    "foto": "fotos/(10.420257, -75.545834).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.420039,
+    "longitud": -75.546005,
+    "direccion": "Cra 10 #25-119,Getsemaní",
+    "foto": "fotos/(10.420039, -75.546005).JPG"
+  },
+  {
+    "nombre": "Hostal Casa Lara",
+    "componente": "Vivienda",
+    "latitud": 10.420385079722633, 
+    "longitud": -75.5457247933824,
+    "direccion": "Calle San Antonio Cra 10 #25-157, Getsemaní",
+    "foto": "fotos/(10.420361, -75.545813) Hostal Casa Lara.JPG"
+  },
+  {
+    "nombre": "Restaurante El Bololó",
+    "componente": "Comercio",
+    "latitud": 10.420511718986635, 
+    "longitud": -75.54561648776294,
+    "direccion": "Calle San Antonio #25-185, Getsemaní",
+    "foto": "fotos/(10.420538, -75.545622) Restaurante El Bololó.JPG"
+  },
+  {
+    "nombre": "Hostal Fareb",
+    "componente": "Comercio",
+    "latitud": 10.42019303795781, 
+    "longitud": -75.54586550522703,
+    "direccion": "Cra. 10 #25-145, Getsemaní",
+    "foto": "fotos/(10.420175, -75.545891) Hostal Fareb.JPG"
+  },
+  {
+    "nombre": "Corporacion Universitaria Rafael Nuñez Sede Getsemaní",
+    "componente": "Social",
+    "latitud": 10.419414659388995, 
+    "longitud": -75.54644512643968,
+    "direccion": "Cl. 10 #10-17, Getsemaní",
+    "foto": "fotos/(10.419297, -75.546638) Corporacion Universitaria Rafael Nuñez Sede Getsemaní.JPG"
+  },
+  {
+    "nombre": "LA SANTISIMA - Luxury Vacation Rentals",
+    "componente": "Vivienda",
+    "latitud": 10.41970430646881, 
+    "longitud": -75.54621642515828,
+    "direccion": "Cra. 10 #25-68, Getsemaní",
+    "foto": "fotos/(10.419455, -75.546460) Hotel La Santisima.JPG"
+  },
+  {
+    "nombre": "Salagua - Villas y Marina - Oficina",
+    "componente": "Comercio",
+    "latitud": 10.41966257090076,
+    "longitud":  -75.54641402331319,
+    "direccion": "Cra 10 #25-43, Getsemaní",
+    "foto": "fotos/(10.419608, -75.546462) SALAGUA Oficinas.JPG"
+  },
+  {
+    "nombre": "Casa Marta Getsemaní",
+    "componente": "Vivienda",
+    "latitud": 10.420401,
+    "longitud": -75.545617,
+    "direccion": "Cra 10 #25-165, getsemani",
+    "foto": "fotos/(10.420401, -75.545617) Hostal Casa Marta.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419571,
+    "longitud": -75.546310,
+    "direccion": "Cra 10",
+    "foto": "fotos/(10.419571, -75.546310).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419681,
+    "longitud": -75.546391,
+    "direccion": "Cra 10 # 25-49",
+    "foto": "fotos/(10.419681, -75.546391).JPG"
+  },
+  {
+    "nombre": "",
+    "componente": "Cultural",
+    "latitud": 10.420126,
+    "longitud": -75.545873,
+    "direccion": "direccion",
+    "foto": "fotos/(10.420126, -75.545873).JPG"
+  },
+  {
+    "nombre": "La Buleka Hostel",
+    "componente": "Vivienda",
+    "latitud": 10.4199568702104, 
+    "longitud": -75.54610861381879,
+    "direccion": "Calle de San Antonio, Cra. 10 #25-121, Getsemaní",
+    "foto": "fotos/(10.420062, -75.545960) La Buleka Hostel .JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419774,
+    "longitud": -75.546297,
+    "direccion": "Cra 10 #25-75",
+    "foto": "fotos/(10.419774, -75.546297).JPG"
+  },
+  {
+    "nombre": "Hotel Casona Star",
+    "componente": "Vivienda",
+    "latitud": 10.419383,
+    "longitud": -75.546688,
+    "direccion": "Cra 10, frente a la UNINUÑEZ",
+    "foto": "fotos/(10.419383, -75.546688)  Hotel Casona Mar.JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Carrera 10b"
+  },
+  {
+    "nombre": "Soberano Restobar",
+    "componente": "Comercio",
+    "latitud": 10.419063237985968, 
+    "longitud": -75.54565584667414,
+    "direccion": "Plaza del Pozo, Cra. 10b #25-70, Getsemaní",
+    "foto": "fotos/(10.419080, -75.545688) Soberano Restobar.JPG"
+  },
+  {
+    "nombre": "Bonche Gastro Bar",
+    "componente": "Comercio",
+    "latitud": 10.419176411838716, 
+    "longitud": -75.54556991599115,
+    "direccion": "Cl. 26 # 25 - 78, Getsemaní",
+    "foto": "fotos/(10.419243, -75.545559) Bonche Gastro Bar.JPG"
+  },
+  {
+    "nombre": "Meeza Café , Brunch & Bar Salón",
+    "componente": "Comercio",
+    "latitud": 10.419395194951083,
+    "longitud":  -75.54563535893395,
+    "direccion": "Plaza del Pozo, #26-08, Getsemaní",
+    "foto": "fotos/(10.419393, -75.545624) Cafe & Brunch Meeza.JPG"
+  },
+  {
+    "nombre": "Nilma Hoyos Artesanías",
+    "componente": "Comercio",
+    "latitud": 10.419915,
+    "longitud": -75.545511,
+    "direccion": "Cra 10b #25-155, Getsemaní ",
+    "foto": "fotos/(10.419915, -75.545511) Artesanías Nilma Hoyos.JPG"
+  },
+  {
+    "nombre": "JOHNNIE WALKER",
+    "componente": "Comercio",
+    "latitud": 10.420049742575198, 
+    "longitud": -75.54539414117099,
+    "direccion": "Interseccion Cra 10b con Cl 28",
+    "foto": "fotos/(10.420109, -75.545454) Tienda de Licores.JPG"
+  },
+  {
+    "nombre": "Casa Cyntia",
+    "componente": "Vivienda",
+    "latitud": 10.419802761145698,
+    "longitud":  -75.54545184477614,
+    "direccion": "Cra. 10b #2716, Getsemaní",
+    "foto": "fotos/(10.419793, -75.545457) Hotel Casa Cyntia.JPG"
+  },
+  {
+    "nombre": "Casa Palenque",
+    "componente": "Comercio",
+    "latitud": 10.42053545399575,
+    "longitud":  -75.54523175852226,
+    "direccion": "Cl. 29 #10B-08, Getsemaní",
+    "foto": "fotos/(10.420513, -75.54521) Bar Casa Palenque.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.420265,
+    "longitud": -75.545302,
+    "direccion": "Cra 10b #28-20",
+    "foto": "fotos/(10.420265, -75.545302).JPG"
+  },
+  {
+    "nombre": "Tavo's Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.41922279416676, 
+    "longitud": -75.54577855469559,
+    "direccion": "Cl. del Pozo # 25-87",
+    "foto": "fotos/(10.419410, -75.545715) Tavo_s Restaurante.JPG"
+  },
+  {
+    "nombre": "Galeria La Marqueza de Yolombo",
+    "componente": "Patrimonio",
+    "latitud": 10.420001655382048, 
+    "longitud": -75.54549008709319,
+    "direccion": "Calle del pozo, cra #25-157 , Getsemaní",
+    "foto": "fotos/(10.419990, -75.545487) Galeria La Marqueza de Yolombo.JPG"
+  },
+  {
+    "nombre": "Casa del Tunel",
+    "componente": "Comercio",
+    "latitud": 10.41948791899019, 
+    "longitud": -75.54552862334674,
+    "direccion": "Cra 10b Cl. del Pozo #26-22, Getsemaní",
+    "foto": "fotos/(10.419514, -75.545574) Bar y Restaurante Casa del Tunel.JPG"
+  },
+  {
+    "nombre": "Basilica Pizzeria Cafe",
+    "componente": "Comercio",
+    "latitud": 10.41912615640578, 
+    "longitud": -75.54558519717,
+    "direccion": "Cl. 26 #10b-78, Getsemaní",
+    "foto": "fotos/(10.419166, -75.545615) Basilica Pizzeria Cafe.JPG"
+  },
+  {
+    "nombre": "Casa del Pozo",
+    "componente": "Vivienda",
+    "latitud": 10.419441018990142, 
+    "longitud": -75.54569904112584,
+    "direccion": "Cra. 10b #25-95, Getsemaní",
+    "foto": "fotos/(10.419454, -75.545693) Boutique Hostel Casa del Pozo.JPG"
+  },
+  {
+    "nombre": "Tienda de artesanias",
+    "componente": "tipo",
+    "latitud": 10.419856,
+    "longitud": -75.545450,
+    "direccion": "direccion",
+    "foto": "fotos/(10.419856, -75.545450) Tienda de artesanias.JPG"
+  },
+  {
+    "nombre": "La Trinidad Plaza",
+    "componente": "Comercio",
+    "latitud": 10.420214311566722,
+    "longitud":  -75.54532913526322,
+    "direccion": "Cra 10b # 28-16, Getsemaní",
+    "foto": "fotos/(10.420211, -75.545333) La Trinidad Plaza.JPG"
+  },
+  {
+    "nombre": "El Tenderete",
+    "componente": "Comercio",
+    "latitud": 10.420300957383462, 
+    "longitud": -75.54537459643312,
+    "direccion": "Plaza la trinidad, Cra. 10b #28-36, Getsemaní",
+    "foto": "fotos/(10.420331, -75.545377) El Tenderete.JPG"
+  },
+  {
+    "nombre": "Fama Bar Fusion",
+    "componente": "Comercio",
+    "latitud": 10.41883920714229,
+    "longitud":  -75.54588289195333,
+    "direccion": "Cra. 10b #25-46, Getsemaní",
+    "foto": "fotos/(10.418841, -75.545924) Restaurante Fama Bar Fusion.JPG"
+  },
+  {
+    "nombre": "Colombian Living art",
+    "componente": "Comercio",
+    "latitud": 10.420336,
+    "longitud": -75.545280,
+    "direccion": "Cra 10b diagnoal a tenderete",
+    "foto": "fotos/(10.420336, -75.545280) Colombian Living art.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418903,
+    "longitud": -75.54582,
+    "direccion": "Cra 10 #25-48",
+    "foto": "fotos/(10.418903, -75.54582).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419556,
+    "longitud": -75.545690,
+    "direccion": "Cra 10",
+    "foto": "fotos/(10.419556, -75.545690).JPG"
+  },
+  {
+    "nombre": "Casa Pizarro",
+    "componente": "Vivienda",
+    "latitud": 10.418996211805592, 
+    "longitud": -75.54570562814631,
+    "direccion": "Cra. 10b #25-56, Getsemaní",
+    "foto": "fotos/(10.419003, -75.545738) Hotel Casa Pizarro.JPG"
+  },
+  {
+    "nombre": "Tienda Don Mañe",
+    "componente": "Comercio",
+    "latitud": 10.419937865831681,
+    "longitud":  -75.54557139084311,
+    "direccion": " Cra. 10b 27-2A 27-100, Getsemaní",
+    "foto": "fotos/(10.419789, -75.545563) Tienda Don Mañe.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419714,
+    "longitud": -75.545492,
+    "direccion": "Cra 10b",
+    "foto": "fotos/(10.419714, -75.545492).JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Carrera 10c"
+  },
+  {
+    "nombre": " ",
+    "componente": "tipo",
+    "latitud": 10.418834,
+    "longitud": -75.545105,
+    "direccion": "direccion",
+    "foto": "fotos/(10.418834, -75.545105).JPG"
+  },
+  {
+    "nombre": "Casa Hotel Espiritu Santo",
+    "componente": "Vivienda",
+    "latitud": 10.420714,
+    "longitud": -75.544448,
+    "direccion": "Cra 10c #29-15",
+    "foto": "fotos/(10.420714, -75.544448) Casa Hotel Espiritu Santo.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419956,
+    "longitud": -75.544561,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.419956, -75.544561).JPG"
+  },
+  {
+    "nombre": "Kumbianna",
+    "componente": "Vivienda",
+    "latitud": 10.418516,
+    "longitud": -75.5452236,
+    "direccion": "Cra 10c #25-54, Getsemaní",
+    "foto": "fotos/(10.418516, -75.5452236) Casa Hotel Kumbianna.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.420913,
+    "longitud": -75.544434,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.420913, -75.544434).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418676,
+    "longitud": -75.545207,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.418676, -75.545207).JPG"
+  },
+  {
+    "nombre": "Casa Francia",
+    "componente": "Vivienda",
+    "latitud": 10.419501400058959, 
+    "longitud": -75.54466929545133,
+    "direccion": "Cra. 10c #27-19, Getsemaní",
+    "foto": "fotos/(10.419464, -75.544664) Casa Hotel Francia.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419998,
+    "longitud": -75.544468,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.419998, -75.544468).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419794,
+    "longitud": -75.544473,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.419794, -75.544473).JPG"
+  },
+  {
+    "nombre": "Casa Salvatore",
+    "componente": "Vivienda",
+    "latitud": 10.419708,
+    "longitud": -75.544482,
+    "direccion": "Cra 10c # 26A-78",
+    "foto": "fotos/(10.419708, -75.544482) Casa Hotel Salvatore.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419881,
+    "longitud": -75.544477,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.419881, -75.544477).JPG"
+  },
+  {
+    "nombre": "Tienda brayan 2",
+    "componente": "Comercio",
+    "latitud": 10.420308,
+    "longitud": -75.5444742,
+    "direccion": "Calle 29 #20-1,Getsemani",
+    "foto": "fotos/(10.420308, -75.544474) Tienda BRAYAN N2.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419923,
+    "longitud": -75.544473,
+    "direccion": "10c",
+    "foto": "fotos/(10.419923, -75.544473).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418664,
+    "longitud": -75.545111,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.418664, -75.545111).JPG"
+  },
+  {
+    "nombre": "Rebelión Alma & Sabor",
+    "componente": "Comercio",
+    "latitud": 10.420380432900862, 
+    "longitud": -75.54436934114726,
+    "direccion": "Cra. 10c #29-02, Getsemaní",
+    "foto": "fotos/(10.420403, -75.544346) Restaurante Rebelion.JPG"
+  },
+  {
+    "nombre": "Casa Maguey",
+    "componente": "Vivienda",
+    "latitud": 10.418732,
+    "longitud": -75.545058,
+    "direccion": "Cra 10c #25-90",
+    "foto": "fotos/(10.418732, -75.545058) Casa Hotel Maguey.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.419626,
+    "longitud": -75.544629,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.419626, -75.544629).JPG"
+  },
+  {
+    "nombre": "Hotel Casa de Las Palmas",
+    "componente": "Vivienda",
+    "latitud": 10.418574181005201, 
+    "longitud": -75.54542704113683,
+    "direccion": "Carrera 10C, Cl. de las Palmas #25-51, Getsemaní",
+    "foto": "fotos/(10.418512, -75.545333) Hotel Casa de Las Palmas.JPG"
+  },
+  {
+    "nombre": "ila la beuana",
+    "componente": "Vivienda",
+    "latitud": 10.419185,
+    "longitud": -75.544722,
+    "direccion": "Cra 10c #26a-16",
+    "foto": "fotos/(10.419185, -75.544722) Casa Hotel.JPG"
+  },
+  {
+    "nombre": "Casa Gaitana",
+    "componente": "Vivienda",
+    "latitud": 10.418569,
+    "longitud": -75.545173,
+    "direccion": "Cra 10c #25-64",
+    "foto": "fotos/(10.418569, -75.545173) Casa Hotel Gaitana.JPG"
+  },
+  {
+    "nombre": "Gran Fuente",
+    "componente": "Vivienda",
+    "latitud": 10.420303231613593, 
+    "longitud":-75.54440199343591,
+    "direccion": " Getsemaní, Cl. de la Lomba #26A -124, Getsemaní",
+    "foto": "fotos/(10.420273, -75.544363) Casa Hotel Gran Fuente.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.420047,
+    "longitud": -75.544560,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.420047, -75.544560).JPG"
+  },
+  {
+    "nombre": "Casa Stephanie",
+    "componente": "Vivienda",
+    "latitud": 10.420166758519986, 
+    "longitud": -75.54441489280379,
+    "direccion": "cRA 10c #26A-124",
+    "foto": "fotos/(10.420191, -75.544371) Casa Hotel Stephanie.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418484,
+    "longitud": -75.545255,
+    "direccion": "Cra 10c",
+    "foto": "fotos/(10.418484, -75.545255).JPG"
+  },
+  {
+    "nombre": "The Wolf Lair",
+    "componente": "Comercio",
+    "latitud": 10.419310872568454, 
+    "longitud": -75.544646065406927,
+    "direccion": "Cra 10c #26A-06, Getsemaní",
+    "foto": "fotos/(10.419326, -75.544607) La Guarida del Lobo.JPG"
+  },
+  {
+    "nombre": "Casa Aura Victoria",
+    "componente": "Vivienda",
+    "latitud": 10.41856789953736,
+    "longitud":  -75.54520456687621,
+    "direccion": "Cra. 10c #25 72, Getsemaní",
+    "foto": "fotos/(10.418617, -75.545129) Casa Hotel Aura Victoria.JPG"
+  },
+  {
+    "nombre": "Casa Portal de Getsemaní",
+    "componente": "Vivienda",
+    "latitud": 10.419819,
+    "longitud": -75.544562,
+    "direccion": "cRA 10c #28-01",
+    "foto": "fotos/(10.419819, -75.544562) Casa Hotel Portal de Getsemaní.JPG"
+  },
+  {
+    "nombre": "Casa Hotel",
+    "componente": "Vivienda",
+    "latitud": 10.419548,
+    "longitud": -75.544644,
+    "direccion": "Cra 10c 21-23",
+    "foto": "fotos/(10.419548, -75.544644) Casa Hotel.JPG"
+  },
+  {
+    "nombre": "Salon Tropical",
+    "componente": "Vivienda",
+    "latitud": 10.420093,
+    "longitud": -75.544420,
+    "direccion": "Cra 10c #28-36, Getsemaní",
+    "foto": "fotos/(10.420093, -75.544420) Salon Tropical.JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de Chamorro/Carrera 11"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418435,
+    "longitud": -75.544962,
+    "direccion": "Cra 11",
+    "foto": "fotos/(10.418435, -75.544962).JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418871,
+    "longitud": -75.544697,
+    "direccion": "Cra 11",
+    "foto": "fotos/(10.418871, -75.544697).JPG"
+  },
+  {
+    "nombre": "Casa Edith",
+    "componente": "Vivienda",
+    "latitud": 10.4186986697627, 
+    "longitud": -75.5447960307089,
+    "direccion": "Avenida El Pedregal Con Calle 26, #25-103, Getsemaí",
+    "foto": "fotos/(10.418674, -75.544804) Casa Hotel Edith.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418480,
+    "longitud": -75.544938,
+    "direccion": "Cra 11",
+    "foto": "fotos/(10.418480, -75.544938).JPG"
+  },
+  {
+    "nombre": "  ",
+    "componente": "Cultural",
+    "latitud": 10.418554,
+    "longitud": -75.544876,
+    "direccion": "Cra 11",
+    "foto": "fotos/(10.418554, -75.544876) .JPG"
+  },
+  {
+    "nombre": "Casa Pedregal",
+    "componente": "Vivienda",
+    "latitud": 10.418329,
+    "longitud": -75.545036,
+    "direccion": "Av. Pedregal #25-57, Getsemaní",
+    "foto": "fotos/(10.418329, -75.545036) Casa Hotel Pedregal.JPG"
+  },
+  {
+    "nombre": "Casa Sonara",
+    "componente": "Vivienda",
+    "latitud": 10.418591,
+    "longitud": -75.544848,
+    "direccion": "Av. Pedregal #25-95, Getsemaní",
+    "foto": "fotos/(10.418591, -75.544848) Casa Hotel Sonara.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418787,
+    "longitud": -75.544743,
+    "direccion": "Cra 11",
+    "foto": "fotos/(10.418787, -75.544743).JPG"
+  },
+  {
+    "nombre": "Hotel Patio de Getsemaní",
+    "componente": "Vivienda",
+    "latitud": 10.419604068104746, 
+    "longitud": -75.54434190537258,
+    "direccion": "Av. Pedregal #26A-79, Getsemaní",
+    "foto": "fotos/(10.419631, -75.544325) Hotel Patio de Getsemaní.JPG"
+  },
+  {
+    "nombre": "Casa Zoria",
+    "componente": "Vivienda",
+    "latitud": 10.418375061889039,
+    "longitud":  -75.54506183455959,
+    "direccion": "Avenida Del pedregal Carrera 11 #25-33",
+    "foto": "fotos/(10.418196, -75.545138) Casa Hotel Zoria .JPG"
+  },
+  {
+    "nombre": "Drogueria Getsemani",
+    "componente": "Comercio",
+    "latitud": 10.419512433429382,
+    "longitud": -75.54437884626144,
+    "direccion": "Cra. 11 #26-55, Getsemaní",
+    "foto": "fotos/(10.419477, -75.544400) Drogueria Getsemani.JPG"
+  },
+  {
+    "nombre": " ",
+    "componente": "Cultural",
+    "latitud": 10.418518,
+    "longitud": -75.544908,
+    "direccion": "Cra 11",
+    "foto": "fotos/(10.418518, -75.544908).JPG"
+  },
+  {
+    "nombre": "Casa Marqués del Pedregal",
+    "componente": "Vivienda",
+    "latitud": 10.418586319501598, 
+    "longitud": -75.54489128582888,
+    "direccion": "Av. Pedregal #25-65, Getsemaní",
+    "foto": "fotos/(10.418399, -75.544990) Casa Hotel Marqués del Pedregal.JPG"
+  },
+  {
+    "nombre": "GHL Collection Armería Real Hotel",
+    "componente": "Vivienda",
+    "latitud": 10.418142056878873, 
+    "longitud": -75.54519136098227,
+    "direccion": "Cra 11 #25-57 Getsemaní",
+    "foto": "fotos/(10.418135, -75.545216) GHL Collection Armería Real Hotel.JPG"
+  },
+  {
+    "_comentario": "fotos/Grupo de juandi"
+  },
+  {
+    "nombre": "Ex Salon de Baile la Estrella Roja",
+    "componente": "Patrimonio",
+    "latitud": 10.420729819770228,
+    "longitud": -75.54497854727346,
+    "direccion": "Cl. 29 #10-33, Getsemaní",
+    "foto": "fotos/(10.420729819770228, -75.54497854727346) Ex Salon de Baile la Estrella Roja.jpg"
+  },
+  {
+    "nombre": "Punto Dollar Money Exchange",
+    "componente": "Comercio",
+    "latitud": 10.422573654797798,
+    "longitud": -75.54405231811566,
+    "direccion": "Cl. 30 #10c - 52, Getsemaní",
+    "foto": "fotos/(10.422573654797798, -75.54405231811566) Punto Dollar Money Exchange.jpg"
+  },
+  {
+    "nombre": "Parqueador del Guerrero",
+    "componente": "Comercio",
+    "latitud": 10.421280646547288,
+    "longitud": -75.545391807316,
+    "direccion": "Calle Guerrero, Cra. 10 #29-55, Getsemaní, Provincia de Cartagena, Bolívar",
+    "foto": "fotos/(10.421280646547288, -75.545391807316) Parqueador del Guerrero.jpg"
+  },
+  {
+    "nombre": "Casa Aria",
+    "componente": "Vivienda",
+    "latitud": 10.422520599052122,
+    "longitud": -75.54416814387484,
+    "direccion": "Calle Media Luna #10C - 48, Getsemaní",
+    "foto": "fotos/(10.422520599052122, -75.54416814387484) Casa Aria.jpg"
+  },
+  {
+    "nombre": "Santuario Hostal",
+    "componente": "Vivienda",
+    "latitud": 10.42220400056002,
+    "longitud": -75.5438829587594,
+    "direccion": "Av. Pedregal #29 - 225, Getsemaní",
+    "foto": "fotos/(10.42220400056002, -75.5438829587594) Santuario Hostal.jpg"
+  },
+  {
+    "nombre": "Hostal Casa Pedregal",
+    "componente": "Vivienda",
+    "latitud": 10.421936532539657,
+    "longitud": -75.54392201969972,
+    "direccion": "Av. Pedregal #29-295, Getsemaní",
+    "foto": "fotos/(10.421936532539657, -75.54392201969972) Hostal Casa Pedregal.jpg"
+  },
+  {
+    "nombre": "Casa Godoy",
+    "componente": "Vivienda",
+    "latitud": 10.422156844625684,
+    "longitud": -75.54455531811561,
+    "direccion": "Cra. 10c #29-191",
+    "foto": "fotos/(10.422156844625684, -75.54455531811561) Casa Godoy.jpg"
+  },
+  {
+    "nombre": "Comercializadora Donde Hector",
+    "componente": "Comercio",
+    "latitud": 10.422290161739753,
+    "longitud": -75.54549935411838,
+    "direccion": "direccion",
+    "foto": "fotos/(10.422290161739753, -75.54549935411838) Comercializadora Donde Hector.jpg"
+  },
+  {
+    "nombre": "La Dicha Café Bar",
+    "componente": "Comercio",
+    "latitud": 10.422171494607879,
+    "longitud": -75.5445795676077,
+    "direccion": "No. 29-197, 130001, Getsemaní, Cra 10 c, Calle Espíritu Santo #130001",
+    "foto": "fotos/(10.422171494607879, -75.5445795676077) La Dicha Café Bar.jpg"
+  },
+  {
+    "nombre": "Di Silvio Trattoria",
+    "componente": "Comercio",
+    "latitud": 10.42092554544567,
+    "longitud": -75.54597335277501,
+    "direccion": "Cl. 29 #9 - 72, Getsemaní",
+    "foto": "fotos/(10.42092554544567, -75.54597335277501) Di Silvio Restaurante.jpg"
+  },
+  {
+    "nombre": "Andiamo pasta&pasta",
+    "componente": "Comercio",
+    "latitud": 10.422551112445024,
+    "longitud": -75.54421717587222,
+    "direccion": "Cl. 30 #10c - 52, Getsemaní",
+    "foto": "fotos/(10.422551112445024, -75.54421717587222) Andiamo Pasta.jpg"
+  },
+  {
+    "nombre": "Mama Waldy Hostel",
+    "componente": "Comercio-Vivienda",
+    "latitud": 10.42125056882659,
+    "longitud": -75.54656572916022,
+    "direccion": "Cl. de la Sierpe #29-03, Getsemaní",
+    "foto": "fotos/(10.42125056882659, -75.54656572916022) Mama Waldy Hostel.jpg"
+  },
+  {
+    "nombre": "EMERALD TRADE JEWERLY FACTORY",
+    "componente": "Comercio",
+    "latitud": 10.42071869808911,
+    "longitud": -75.54518948418446,
+    "direccion": "Plaza la trinidad, Calle del guerro 29 #10-35, Getsemaní",
+    "foto": "fotos/(10.42071869808911, -75.54518948418446) Emerald Trade Center.jpg"
+  },
+  {
+    "nombre": "Cafe Central Travlere´s Coffee",
+    "componente": "Comercio",
+    "latitud": 10.42266875841053,
+    "longitud": -75.54448304695131,
+    "direccion": "Getsemani Calle de la Media Luna # 10 - 113",
+    "foto": "fotos/(10.42266875841053, -75.54448304695131) Cafe Central Travlere´s Coffee.jpg"
+  },
+  {
+    "nombre": "Café Havana",
+    "componente": "Comercio",
+    "latitud": 10.422211452622628,
+    "longitud": -75.54531538901755,
+    "direccion": "Cl. 30 Cra. 10 #ESQUINA, Getsemaní",
+    "foto": "fotos/(10.422211452622628, -75.54531538901755) Café Havana.jpg"
+  },
+  {
+    "nombre": "Soisa Money Exchange",
+    "componente": "Comercio",
+    "latitud": 10.421844393111014,
+    "longitud": -75.545468742694849,
+    "direccion": "Cra. 10 #29-117, Getsemaní",
+    "foto": "fotos/(10.421844393111014, -75.545468742694849) Soisa Money Exchange.jpg"
+  },
+  {
+    "nombre": "Oasi Spa",
+    "componente": "Comercio",
+    "latitud": 10.42149136143735,
+    "longitud": -75.5453306763803,
+    "direccion": "Cra. 10 #29-84, Getsemaní",
+    "foto": "fotos/(10.42149136143735, -75.5453306763803) Oasi Spa.jpg"
+  },
+  {
+    "nombre": "Clero Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.422031210719332,
+    "longitud": -75.54636825236989,
+    "direccion": "Esquina - Calle de las Banderitas del Mundo, Cl. de la Sierpe #29-52, Getsemaní",
+    "foto": "fotos/(10.422031210719332, -75.54636825236989) Clero Restaurante.jpg"
+  },
+  {
+    "nombre": "Hostal Casa de la Muralla ",
+    "componente": "Vivienda",
+    "latitud": 10.420934798875763,
+    "longitud": -75.54401447899217,
+    "direccion": "Cra. 11 # 29-73, Cartagena de Indias, Bolívar",
+    "foto": "fotos/(10.420934798875763, -75.54401447899217) Hostal Casa de la Muralla .jpg"
+  },
+  {
+    "nombre": "Parqueadero",
+    "componente": "Comercio",
+    "latitud": 10.421159654153564,
+    "longitud": -75.5462667306489,
+    "direccion": "Cl. 29, Calle de las banderitas del mundo",
+    "foto": "fotos/(10.421159654153564, -75.5462667306489) Parqueadero.jpg"
+  },
+  {
+    "nombre": "Hostal Casa Milo",
+    "componente": "Vivienda",
+    "latitud": 10.421086568847453,
+    "longitud": -75.54399800032455,
+    "direccion": "Calle Pedregal, Cra. 11 #29-87, Getsemaní",
+    "foto": "fotos/(10.421086568847453, -75.54399800032455) Hostal Casa Milo.jpg"
+  },
+  {
+    "nombre": "Lunatico Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.422129793678703,
+    "longitud": -75.54390807415146,
+    "direccion": "Cra. 11 Av. Pedregal #29-225 segundo piso",
+    "foto": "fotos/(10.422129793678703, -75.54390807415146) Lunatico Restaurante.jpg"
+  },
+  {
+    "nombre": "Pizzeria Pavia",
+    "componente": "Comercio",
+    "latitud": 10.421542289978083,
+    "longitud": -75.54533789188598,
+    "direccion": "Cra. 10 # 29-01",
+    "foto": "fotos/(10.421542289978083, -75.54533789188598) Pizzeria Pavia.jpg"
+  },
+  {
+    "nombre": "Hotel Casa Mara",
+    "componente": "Vivienda",
+    "latitud": 10.42172790859035,
+    "longitud": -75.54448731351825,
+    "direccion": "Cra. 10c # 29-139",
+    "foto": "fotos/(10.42172790859035, -75.54448731351825) Hotel Casa Mara.jpg"
+  },
+  {
+    "nombre": "Antigua Casa del Espectador",
+    "componente": "Patrimonio",
+    "latitud": 10.422419859113349,
+    "longitud": -75.54463843820966,
+    "direccion": "Cl. 30 Cra. 10c",
+    "foto": "fotos/(10.422419859113349, -75.54463843820966) Antigua Casa del Espectador.jpg"
+  },
+  {
+    "nombre": "Celele Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.422185774944644,
+    "longitud": -75.54446027368965,
+    "direccion": "Calle del Espíritu Santo, Cra. 10c #29-200, Getsemaní",
+    "foto": "fotos/(10.422185774944644, -75.54446027368965) Celele Restaurante.jpg"
+  },
+  {
+    "nombre": "Gelateria Ceiba",
+    "componente": "Comercio",
+    "latitud": 10.42108299413863,
+    "longitud": -75.5452621752598,
+    "direccion": "Getsemaní, calle del Guerrero # 29 - 44",
+    "foto": "fotos/(10.42108299413863, -75.5452621752598) Gelateria Ceiba.jpg"
+  },
+  {
+    "nombre": "Hotel Casa Isabel",
+    "componente": "Vivienda",
+    "latitud": 10.421700673585892,
+    "longitud": -75.54396379254588,
+    "direccion": "Getsemani, Avenida El Pedregal (Carrerra 11) #29-159",
+    "foto": "fotos/(10.421700673585892, -75.54396379254588) Hotel Casa Isabel.jpg"
+  },
+  {
+    "nombre": "Arte en Alzado",
+    "componente": "Comercio",
+    "latitud": 10.421925654863708,
+    "longitud": -75.54446627148887,
+    "direccion": "Cra. 10c # 29 - 163",
+    "foto": "fotos/(10.421925654863708, -75.54446627148887) Arte en Alzado.jpg"
+  },
+  {
+    "nombre": "Morena Origenes",
+    "componente": "Comercio",
+    "latitud": 10.422167673595702,
+    "longitud": -75.54602775168554,
+    "direccion": "Cl. 30 #9-43, Getsemaní",
+    "foto": "fotos/(10.422167673595702, -75.54602775168554) Morena Origenes.jpg"
+  },
+  {
+    "nombre": "Tertulia de Getsemaní",
+    "componente": "Comercio",
+    "latitud": 10.422235120743087,
+    "longitud": -75.54573270425033,
+    "direccion": "Cl. 30 #9 - 57 LC 3, Getsemaní",
+    "foto": "fotos/(10.422235120743087, -75.54573270425033) Tertulia de Getsemaní.jpg"
+  },
+  {
+    "nombre": "La licorería de Getsemaní",
+    "componente": "Comercio",
+    "latitud": 10.422059783365365,
+    "longitud": -75.54596367729866,
+    "direccion": "Cl. 30 #9-52, Getsemaní",
+    "foto": "fotos/(10.422059783365365, -75.54596367729866) La licorería de Getsemaní.jpg"
+  },
+  {
+    "nombre": "Getsemaní Luxury Hotel",
+    "componente": "Comercio-Vivienda",
+    "latitud": 10.422578815913269,
+    "longitud": -75.54381188869107,
+    "direccion": "Avenida del pedregal # 29 – 291, Cra. 10 #31-56, Getsemaní",
+    "foto": "fotos/(10.422578815913269, -75.54381188869107) Getsemaní Luxury Hotel.jpg"
+  },
+  {
+    "nombre": "Hotel Casa Arinda",
+    "componente": "Comercio-Vivienda",
+    "latitud": 10.420676140354713,
+    "longitud": -75.54408071967276,
+    "direccion": "Av. Pedregal #29-43, Getsemaní",
+    "foto": "fotos/(10.420676140354713, -75.54408071967276) Hotel Casa Arinda.jpg"
+  },
+  {
+    "nombre": "Juan Valdez Café",
+    "componente": "Comercio",
+    "latitud": 10.422558927877875,
+    "longitud": -75.54390883565719,
+    "direccion": "Calle de la Media Luna, Cra. 30 #10 C 66, Getsemaní",
+    "foto": "fotos/(10.422558927877875, -75.54390883565719) Juan Valdez Café.jpg"
+  },
+  {
+    "nombre": "Doña Lola Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.421754133784388,
+    "longitud": -75.545330365163,
+    "direccion": " Calle del Guerrero, 29 #108 -118",
+    "foto": "fotos/(10.421754133784388, -75.545330365163) Doña Lola Restaurante.jpg"
+  },
+  {
+    "nombre": "El Buffet de la PLaza ",
+    "componente": "Comercio",
+    "latitud": 10.420995256099616,
+    "longitud": -75.54523571535552,
+    "direccion": "Cra. 10, Plaza Trinidad, Getsemaní",
+    "foto": "fotos/(10.420995256099616, -75.54523571535552) El Buffet de la PLaza .jpg"
+  },
+  {
+    "nombre": "Cono de Pizza Toto",
+    "componente": "Comercio",
+    "latitud": 10.421131411353407,
+    "longitud": -75.54537613313393,
+    "direccion": "Cra. 10 #29-2A, Getsemaní",
+    "foto": "fotos/(10.421131411353407, -75.54537613313393) Cono de Pizza Toto.jpg"
+  },
+  {
+    "nombre": "Hotel Casa Moraira",
+    "componente": "Comercio",
+    "latitud": 10.421395903841756,
+    "longitud": -75.54431001752253,
+    "direccion": "Carrera 10c #29-108, Getsemaní",
+    "foto": "fotos/(10.421395903841756, -75.54431001752253) Hotel Casa Moraira.jpg"
+  },
+  {
+    "nombre": "Rebelion Alma & Sabor Restaurante",
+    "componente": "Comercio",
+    "latitud": 10.42038264642985,
+    "longitud": -75.54436976574497,
+    "direccion": "Cra. 10c #29-02, Getsemaní",
+    "foto": "fotos/(10.42038264642985, -75.54436976574497) Rebelion Alma & Sabor Restaurante.jpg"
+  },
+  {
+    "nombre": "Florida Money Exchange",
+    "componente": "Comercio",
+    "latitud": 10.4204849184463,
+    "longitud": -75.5446570398853,
+    "direccion": "Cl. 29 #10-93, Getsemaní",
+    "foto": "fotos/(10.4204849184463, -75.5446570398853) Florida Money Exchange.jpg"
+  },
+  {
+    "nombre": "Plaza Cervantes",
+    "componente": "Patrimonio",
+    "latitud": 10.422891,
+    "longitud": -75.548731,
+    "direccion": "Cl. 32, La Matuna, Getsemaní",
+    "foto": "fotos/10.422891, -75.548731  --Plaza Cervantes--.jpg"
+  },
+  {
+    "nombre": "Parque Centenario",
+    "componente": "Ambiente",
+    "latitud": 10.422790,
+    "longitud": -75.547225,
+    "direccion": "Media, Getsemaní",
+    "foto": "fotos/10.422790, -75.547225 --Parque Centenario--.jpg"
+  },
+  {
+    "nombre": "Bar Casa Dictador ",
+    "componente": "Comercio",
+    "latitud": 10.422671,
+    "longitud": -75.546308,
+    "direccion": "Cra. 9 #30-62, Getsemaní",
+    "foto": "fotos/10.422671, -75.546308  --Bar Casa Dictador-- .jpg"
+  },
+  {
+    "nombre": "Centro de Convenciones",
+    "componente": "Patrimonio",
+    "latitud": 10.420912031544646, 
+    "longitud": -75.54921605278119,
+    "direccion": "Cl. 24 #8A-344, Getsemaní",
+    "foto": "fotos/10.421563, -75.548145  --Centro de Convenciones--.jpg"
+  },
+  {
+    "nombre": "Centro Comercial Getsemaní",
+    "componente": "Comerial",
+    "latitud": 10.421910,
+    "longitud": -75.546900,
+    "direccion": "Cl. 30, frente al parque bicentenario",
+    "foto": "fotos/10.421910, -75.546900 --Centro Comercial Getsemaní--.jpg"
+  },
+  {
+    "nombre": "Iglesia Tercera Orden",
+    "componente": "Patrimonio",
+    "latitud": 10.421181,
+    "longitud": -75.548396,
+    "direccion": "Cra. 8b # 2410, Getsemaní",
+    "foto": "fotos/10.421181, -75.548396  --Iglesia Tercera Orden--.jpg"
+  },
+  {
+    "nombre": "Prestigio Joyería SAS",
+    "componente": "Comercio",
+    "latitud": 10.423517,
+    "longitud": -75.547246,
+    "direccion": "Edificio Pedro Ganem Av. Daniel, Cl. 32 #8-91 Local 5",
+    "foto": "fotos/10.423517, -75.547246 --Joyería Prestigio--.jpg"
+  },
+  {
+    "nombre": "Restaurante Bololó",
+    "componente": "Comercio",
+    "latitud": 10.4222539,
+    "longitud": -75.546298,
+    "direccion": "Cra. 9, frente el parque bicentenario al lado del hotel Centenario",
+    "foto": "fotos/10.4222539, -75.546298 --Restaurante Bololó--.jpg"
+  },
+  {
+    "nombre": "Hotel Dorado Plaza Centro Histórico",
+    "componente": "Comercio",
+    "latitud": 10.423335110899664,
+    "longitud":  -75.54626963782675,
+    "direccion": "Cra. 9 #No 31-72, Getsemaní",
+    "foto": "fotos/10.423673, -75.546571  --Dorado Plaza--.jpg"
+  },
+  {
+    "nombre": "Discoteca Neutro",
+    "componente": "Comercio",
+    "latitud": 10.420693,
+    "longitud": -75.548851,
+    "direccion": "Cra. 8b #24 - 10, El Centro",
+    "foto": "fotos/10.420693, -75.548851  --Discoteca Neutro--.jpg"
+  },
+  {
+    "nombre": "Antiguo Club Cartagena",
+    "componente": "Patrimonio",
+    "latitud": 10.421784,
+    "longitud": -75.547300,
+    "direccion": "Media Luna 8B #8B-44, Getsemaní",
+    "foto": "fotos/10.421784, -75.547300 --Club Cartagena--.jpg"
+  },
+  {
+    "nombre": "Restaurante Bar Clero",
+    "componente": "Comercio",
+    "latitud": 10.422210,
+    "longitud": -75.546471,
+    "direccion": "Esquina - Calle de las Banderitas del Mundo, Cl. de la Sierpe #29-52, Getsemaní",
+    "foto": "fotos/10.422210, -75.546471 --Restaurante Bar Clero--.jpg"
+  },
+  {
+    "nombre": "Camellón de los Martires",
+    "componente": "Patrimonio",
+    "latitud": 10.4222035,
+    "longitud": -75.548131,
+    "direccion": "Cl. 31 #71-48, El Centro",
+    "foto": "fotos/10.4222035, -75.548131  --Camellón de los Martires--.jpg"
+  },
+  {
+    "nombre": "Restaurante Stefano's",
+    "componente": "Comercio",
+    "latitud": 10.422941,
+    "longitud": -75.546309,
+    "direccion": "Cl. 31 #9105 #1 a, Getsemaní",
+    "foto": "fotos/10.422941, -75.546309  --Restaurante Stefano_s--.jpg"
+  },
+  {
+    "nombre": "Casa Santos de Piedra",
+    "componente": "Comercio",
+    "latitud": 10.422169718146375, 
+    "longitud": -75.54634653008715,
+    "direccion": "Cra. 9 # 30-28",
+    "foto": "fotos/10.4222389, -75.546419 --Casa Santos de Piedra.jpg"
+  },
+  {
+    "nombre": "Hotel Monterrey",
+    "componente": "Vivienda",
+    "latitud": 10.421687,
+    "longitud": -75.547932,
+    "direccion": "Cra. 8b #25-100, Getsemaní",
+    "foto": "fotos/10.421687, -75.547932 --Hotel Monterrey--.jpg"
+  },
+  {
+    "nombre": "Fuente de Pescador",
+    "componente": "Patrimonio",
+    "latitud": 10.420815,
+    "longitud": -75.548895,
+    "direccion": "Convention Center Fountain Near Cl. 24 #8b-06 a 8b-76",
+    "foto": "fotos/10.420815, -75.548895 --Fuente de Pescador--.jpg"
+  },
+  {
+    "nombre": "Edificio Parque Centenario",
+    "componente": "Vivienda",
+    "latitud": 10.421961,
+    "longitud": -75.546579,
+    "direccion": "Media Luna 8B #8B-108, Getsemaní",
+    "foto": "fotos/10.421961, -75.546579  --Edificio Parque Centenario--.jpg"
+  },
+  {
+    "nombre": "Muelle de los Pegasos",
+    "componente": "Patrimonio",
+    "latitud": 10.421519024058748, 
+    "longitud": -75.54967365775171,
+    "direccion": "Cl. 36 #780, El Centro",
+    "foto": "fotos/10.422300, -75.548723  --Muelle de los Pegasos--.jpg"
+  },
+  {
+    "nombre": "Banco Popular",
+    "componente": "Comercio",
+    "latitud": 10.423315,
+    "longitud": -75.548444,
+    "direccion": "Cl. 32 #8-11 No. 8 - 22, La Matuna",
+    "foto": "fotos/10.423315, -75.548444  --Banco Popular--.jpg"
+  },
+  {
+    "nombre": "Teatro Cartagena",
+    "componente": "Patrimonio",
+    "latitud": 10.421509627360914, 
+    "longitud": -75.54768751420244,
+    "direccion": "Entre Media Luna 8B, Cl. 24 #25-84, Getsemaní",
+    "foto": "fotos/20250608_111459.jpg"
+  }
+]
