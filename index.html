@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <title>Mi Página Web</title>
+</head>
+<body>
+  <div id="map"></div>
+  <button class="boton-personalizado" id="toggle-panel"></button>
+  <div id="panel-opciones">
+    <h3>Opciones del Mapa</h3>
+    <label><input type="checkbox" class="filtro" data-componente="Comercio"> Comercio</label><br>
+    <label><input type="checkbox" class="filtro" data-componente="Vivienda"> Vivienda</label><br>
+    <label><input type="checkbox" class="filtro" data-componente="Ambiente"> Ambiente</label><br>
+    <label><input type="checkbox" class="filtro" data-componente="Patrimonio"> Patrimonio</label><br> 
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
